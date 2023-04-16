@@ -7,7 +7,9 @@
 [![General badge](https://img.shields.io/badge/Favorite%20food:-🍕-blueviolet.svg)](https://shields.io/) <br/>
 
 <p>I code things with <img src="https://img.shields.io/badge/Delphi-EE1F35.svg?logo=Delphi&logoColor=white&style=flat-square" alt="Delphi" /> in <img src="https://img.shields.io/badge/Windows-0078D6.svg?logo=Windows&logoColor=white&style=flat-square" alt="Windows" /> </p>
+
 <h1></h1>
+
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=MassimoPotere&count_private=true&include_all_commits=true&theme=github_dark" /><br />
   <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MassimoPotere&count_private=true&include_all_commits=true&theme=github_dark" /><br />
